@@ -1,0 +1,21 @@
+2025-07-23T00:00:02.976005+00:00 Upgrading gateways without controller upgrade...
+2025-07-23T00:00:05.123456+00:00 Upgrading gw-001 to version 8.1.0-1000.1568
+2025-07-23T00:00:06.234567+00:00 Upgrading gw-002 to version 8.1.0-1000.1568
+2025-07-23T00:00:07.345678+00:00 Upgrading gw-003 to version 8.1.0-1000.1568
+2025-07-23T00:00:08.456789+00:00 Upgrading gw-004 to version 8.1.0-1000.1568
+2025-07-23T00:00:09.567890+00:00 Upgrading gw-005 to version 8.1.0-1000.1568
+2025-07-23T00:00:10.678901+00:00 Upgrading gw-006 to version 8.1.0-1000.1568
+2025-07-23T00:00:11.789012+00:00 Upgrading gw-007 to version 8.1.0-1000.1568
+2025-07-23T00:00:12.890123+00:00 Upgrading gw-008 to version 8.1.0-1000.1568
+2025-07-23T00:00:13.901234+00:00 Upgrading gw-009 to version 8.1.0-1000.1568
+2025-07-23T00:00:14.012345+00:00 Upgrading gw-010 to version 8.1.0-1000.1568
+2025-07-23T00:02:30.987654+00:00 Updating upgrade_info to gw gw-001: {'status': 'complete', 'curr_ver': '8.1.0-1000.1580', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753223782}}
+2025-07-23T00:03:15.456789+00:00 Updating upgrade_info to gw gw-002: {'status': 'complete', 'curr_ver': '8.1.0-1000.1581', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753223795}}
+2025-07-23T00:04:45.234567+00:00 Updating upgrade_info to gw gw-003: {'status': 'complete', 'curr_ver': '8.1.0-1000.1582', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753223885}}
+2025-07-23T00:06:22.345678+00:00 Updating upgrade_info to gw gw-004: {'status': 'complete', 'curr_ver': '8.1.0-1000.1583', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753223982}}
+2025-07-23T00:08:10.678901+00:00 Updating upgrade_info to gw gw-005: {'status': 'complete', 'curr_ver': '8.1.0-1000.1584', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224090}}
+2025-07-23T00:10:05.789012+00:00 Updating upgrade_info to gw gw-006: {'status': 'complete', 'curr_ver': '8.1.0-1000.1585', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224205}}
+2025-07-23T00:12:20.890123+00:00 Updating upgrade_info to gw gw-007: {'status': 'complete', 'curr_ver': '8.1.0-1000.1586', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224340}}
+2025-07-23T00:15:45.901234+00:00 Updating upgrade_info to gw gw-008: {'status': 'complete', 'curr_ver': '8.1.0-1000.1587', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224545}}
+2025-07-23T00:18:30.012345+00:00 Updating upgrade_info to gw gw-009: {'status': 'complete', 'curr_ver': '8.1.0-1000.1588', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224710}}
+2025-07-23T00:22:15.123456+00:00 Updating upgrade_info to gw gw-010: {'status': 'complete', 'curr_ver': '8.1.0-1000.1589', 'kernel_ver': '', 'prev_ver': '8.1.0-1000.1556', 'process_status': {'type': 'Software Upgrade', 'update_status': 'complete', 'message': 'Successfully upgraded', 'timestamp': 1753224935}}

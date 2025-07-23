@@ -1,0 +1,39 @@
+DEBUG: Overall upgrade started at 2025-07-23 00:00:02.976005+00:00
+DEBUG: Upgrade started for alta2-aep-edge-1 at 2025-07-23 00:00:05.123456+00:00 with version info: 8.1.0-1000.1568
+DEBUG: Upgrade started for alta2-aep-edge-2 at 2025-07-23 00:00:07.234567+00:00 with version info: 8.1.0-1000.1568
+DEBUG: Upgrade started for alta2-aws-use2-s16-hagw at 2025-07-23 00:00:09.345678+00:00 (detected from installing status)
+DEBUG: Upgrade started for alta2-aep-edge-4 at 2025-07-23 00:00:11.456789+00:00 with version info: 8.1.0-1000.1568
+DEBUG: Upgrade started for alta2-aws-use2-s16-hagw2 at 2025-07-23 00:00:13.567890+00:00 (detected from installing status)
+DEBUG: Upgrade started for alta2-aep-edge-5 at 2025-07-23 00:00:15.678901+00:00 with version info: 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aep-edge-1 at 2025-07-23 00:02:30.987654+00:00 with version 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aep-edge-2 at 2025-07-23 00:03:15.456789+00:00 with version 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aws-use2-s16-hagw at 2025-07-23 00:03:45.234567+00:00 with version 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aep-edge-4 at 2025-07-23 00:04:22.345678+00:00 with version 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aep-edge-5 at 2025-07-23 00:05:10.678901+00:00 with version 8.1.0-1000.1568
+DEBUG: Upgrade completed for alta2-aws-use2-s16-hagw2 at 2025-07-23 00:06:05.789012+00:00 with version 8.1.0-1000.1568
+DEBUG: Completion seen for mystery-gateway but no start recorded - creating retroactive entry
+DEBUG: Parsed 7 upgrade events
+DEBUG: ============================================================
+DEBUG: UPGRADE TIME STATISTICS
+DEBUG: ============================================================
+DEBUG: Total upgrades: 7
+DEBUG: Completed upgrades: 7
+DEBUG: In-progress upgrades: 0
+DEBUG: 
+DEBUG: Duration Statistics (minutes):
+DEBUG:   Minimum: 0.00m (mystery-gateway)
+DEBUG:   Maximum: 5.87m (alta2-aws-use2-s16-hagw2)
+DEBUG:   Average: 3.45m
+DEBUG:   Std Dev: 1.76m
+DEBUG: 
+DEBUG: Duration Distribution:
+DEBUG:      <2m:   1 upgrades ( 14.3%)
+DEBUG:     2-5m:   5 upgrades ( 71.4%)
+DEBUG:    5-10m:   1 upgrades ( 14.3%)
+DEBUG:   10-15m:   0 upgrades (  0.0%)
+DEBUG:   15-30m:   0 upgrades (  0.0%)
+DEBUG:   30-60m:   0 upgrades (  0.0%)
+DEBUG:     >60m:   0 upgrades (  0.0%)
+DEBUG: ============================================================
+DEBUG: Dynamic chart dimensions: 1200x800 for 7 upgrades
+DEBUG: Bar dimensions: height=25, step=94.28571428571429
